@@ -1,5 +1,7 @@
 # QrsctlGet
 
+此仓库是博文 [解决七牛云链接失效以及批量下载图片并迁移阿里云 OSS](https://blog.huihut.com/2018/11/08/SolveInvalidQiniuLinksAndDownloadImagesInBatchesAndMigrateAliOSS/) 的存储仓库，请参考博文使用。
+
 ## 下载七牛存储的对象
 
 使用 qrsctl 工具只能单个文件下载，为了避免重复的工作，因此写了个 C++ 程序解决。
