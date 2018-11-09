@@ -12,7 +12,7 @@
 
 ![QiniuStorageSpaceTbody](https://huihut-img.oss-cn-shenzhen.aliyuncs.com/QiniuStorageSpaceTbody.png)
 
-然后把复制到的内容保存成 `html.html` 文件，放到一个目录下，如我的 `D:\code\test\`（一下均以此目录为工程目录）
+然后把复制到的内容保存成 `html.html` 文件，放到一个目录下，如我的 `D:\code\test\`（以下均以此目录为工程目录）
 
 ### 下载并登录 qrsctl
 
